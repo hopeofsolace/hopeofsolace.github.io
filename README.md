@@ -1,2 +1,2 @@
 # hopeofsolace.github.io
-homepage
+solace programming projects
