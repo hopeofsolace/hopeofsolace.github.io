@@ -97,7 +97,7 @@ if (multiplyAll([2, 3, 4]) === 24 && multiplyAll([10, 10, 5, 2]) === 1000) {
   console.log('expected ', multiplyAll([10, 10, 5, 2]), ' to equal ', 1000)
   console.log('failed!');
 }
-
+//max
 // function multiplyAll (array) {
 // 	if(array.length == 0 && typeof array === 'array')
 // 		return false;
@@ -120,7 +120,7 @@ if (multiplyAll([2, 3, 4]) === 24 && multiplyAll([10, 10, 5, 2]) === 1000) {
 // 	i++;
 // }
 
-
+// max
 function multiplyAll(array, mult){
 	if(mult == undefined){
 		mult = 1;

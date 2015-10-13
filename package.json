@@ -1,0 +1,22 @@
+{
+  "name": "hopeofsolace.github.io",
+  "version": "1.0.0",
+  "description": "solace programming projects",
+  "main": "challenges.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopeofsolace/hopeofsolace.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hopeofsolace/hopeofsolace.github.io/issues"
+  },
+  "homepage": "https://github.com/hopeofsolace/hopeofsolace.github.io#readme",
+  "dependencies": {
+    "deep-equal": "^1.0.1"
+  }
+}
